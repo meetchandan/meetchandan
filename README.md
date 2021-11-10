@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello Folks! I'm Chandan 👋
 
-[![Linkedin: Chandan Bhattad](https://img.shields.io/badge/Chandan-Linkedin-blue)](https://www.linkedin.com/in/chandan-bhattad-06749453/)
+[![GitHub vermakhushboo](https://img.shields.io/github/followers/meetchandan?label=follow&style=social)](https://github.com/meetchandan)
+[![Linkedin: Chandan Bhattad](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/chandan-bhattad-06749453/)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=meetchandan&left_color=gray&right_color=blue)
 
