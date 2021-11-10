@@ -4,7 +4,7 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=meetchandan&left_color=gray&right_color=blue)
 
-[![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetchandan&hide=issues&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/vermakhushboo/github-readme-stats)
+[![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetchandan&hide=issues&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/meetchandan/github-readme-stats)
 
 
 <!--
